@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
 ## Binary Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0226-invert-binary-tree) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0226-invert-binary-tree) |

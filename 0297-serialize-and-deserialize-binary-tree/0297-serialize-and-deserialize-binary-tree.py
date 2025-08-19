@@ -1,47 +1,43 @@
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
 class Codec:
 
     def serialize(self, root):
-        if not root:
-            return ""
 
-        output = []
-        q = [root]
+        def dfs(node):
+            if node is None:
+                return "null,"
 
-        while q:
-            node = q.pop(0)
-            if node:
-                output.append(str(node.val))
-                q.append(node.left)
-                q.append(node.right)
-            else:
-                output.append("null")
+            return str(node.val)+","+dfs(node.left)+dfs(node.right) 
 
-        while output and output[-1] == "null":
-            output.pop()
+        return dfs(root)
 
-        return ",".join(output)
+        
+    def deserialize(self, data):
+
+        def dfs(nodes):
+            val=next(nodes)
+            
+            if val=="null":
+                return None
+
+            node=TreeNode(int(val))
+            node.left=dfs(nodes)
+            node.right=dfs(nodes)
+            return node
+
+        nodes=iter(data.split(","))
+
+        return dfs(nodes)        
+
         
 
-    def deserialize(self, data):
-        if not data:
-            return None
-
-        vals = data.split(',')
-        root = TreeNode(int(vals[0]))
-        q = [root]
-        i = 1
-
-        while q and i < len(vals):
-            node = q.pop(0)
-
-            if i < len(vals) and vals[i] != "null":
-                node.left = TreeNode(int(vals[i]))
-                q.append(node.left)
-            i += 1
-
-            if i < len(vals) and vals[i] != "null":
-                node.right = TreeNode(int(vals[i]))
-                q.append(node.right)
-            i += 1
-
-        return root
+# Your Codec object will be instantiated and called as such:
+# ser = Codec()
+# deser = Codec()
+# ans = deser.deserialize(ser.serialize(root))

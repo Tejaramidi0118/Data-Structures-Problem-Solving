@@ -8,22 +8,20 @@ from collections import deque
 
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        if not root:
-            return False
+        def dfs(root,s):
+            if root==None:
+                return False
 
-        q = deque([(root, root.val)])
+            s += root.val
 
-        while q:
-            node, s = q.popleft()
+            if not root.left and not root.right:
+                return s == targetSum
 
-            if not node.left and not node.right and s == targetSum:
-                return True
+            
+            return dfs(root.left,s) or dfs(root.right,s)
 
-            if node.left:
-                q.append((node.left, s + node.left.val))
-            if node.right:
-                q.append((node.right, s + node.right.val))
 
-        return False
+
+        return dfs(root,0)
 
             

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |

@@ -210,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

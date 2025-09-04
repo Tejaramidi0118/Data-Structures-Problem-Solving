@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |

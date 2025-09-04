@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3830-find-closest-person](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |

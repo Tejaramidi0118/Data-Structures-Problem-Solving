@@ -117,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0133-clone-graph) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

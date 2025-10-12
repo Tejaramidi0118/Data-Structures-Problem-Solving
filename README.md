@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0113-path-sum-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

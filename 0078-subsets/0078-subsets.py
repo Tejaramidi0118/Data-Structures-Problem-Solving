@@ -4,7 +4,7 @@ class Solution:
         self.backtrack(nums, 0, [], result)
         return result
     
-    def backtrack(self, nums: List[int], start: int, path: List[int], result: List[List[int]]):
+    def backtrack(self, nums, start, path, result):
         result.append(list(path))
         for i in range(start, len(nums)):
             path.append(nums[i])

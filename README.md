@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0777-toeplitz-matrix) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0101-symmetric-tree) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0113-path-sum-ii) |
 ## Heap (Priority Queue)

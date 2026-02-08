@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
 ## Sorting

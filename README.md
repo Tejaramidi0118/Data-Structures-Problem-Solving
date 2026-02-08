@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 | [0777-toeplitz-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0777-toeplitz-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 ## String
@@ -397,10 +399,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

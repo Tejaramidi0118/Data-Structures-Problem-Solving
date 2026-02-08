@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0131-palindrome-partitioning) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Prefix Sum

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 ## Tree
 |  |
 | ------- |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Prefix Sum
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->

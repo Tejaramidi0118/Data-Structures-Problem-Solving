@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3379-transformed-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3379-transformed-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Tree
 |  |
 | ------- |

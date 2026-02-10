@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3379-transformed-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3379-transformed-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -435,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->

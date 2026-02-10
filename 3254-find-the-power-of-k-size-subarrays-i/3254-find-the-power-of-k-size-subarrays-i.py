@@ -1,20 +1,13 @@
 class Solution:
     def resultsArray(self, nums: List[int], k: int) -> List[int]:
-        n = len(nums)
-        result = []
-
-        for i in range(n - k + 1):
-            subarray = nums[i:i + k]
-            
-            is_sorted_consecutive = True
-            for j in range(1, k):
-                if subarray[j] != subarray[j - 1] + 1:
-                    is_sorted_consecutive = False
-                    break
-            
-            if is_sorted_consecutive:
-                result.append(max(subarray))
-            else:
-                result.append(-1)
+        res = [-1] * (len(nums) - k + 1)
+        left = 0
+        for right in range(len(nums)):
+            if right > 0 and nums[right] != nums[right - 1] + 1:
+                left = right
+            if right - left + 1 > k:
+                left += 1
+            if right - left + 1 == k:
+                res[left] = nums[right]
         
-        return result
+        return res

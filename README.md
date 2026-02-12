@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |

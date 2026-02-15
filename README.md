@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0069-sqrtx) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0131-palindrome-partitioning) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3379-transformed-array) |
 ## Stack
 |  |

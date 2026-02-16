@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue

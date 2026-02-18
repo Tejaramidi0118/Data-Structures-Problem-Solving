@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |

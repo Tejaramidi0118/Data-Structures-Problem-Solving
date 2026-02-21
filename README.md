@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0069-sqrtx) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |

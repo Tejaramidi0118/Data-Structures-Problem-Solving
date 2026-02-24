@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching

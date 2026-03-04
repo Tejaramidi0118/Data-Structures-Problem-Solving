@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3379-transformed-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3379-transformed-array) |
+| [3693-climbing-stairs-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3693-climbing-stairs-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 ## Design
 |  |
 | ------- |

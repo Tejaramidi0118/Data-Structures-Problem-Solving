@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0132-palindrome-partitioning-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0132-palindrome-partitioning-ii) |

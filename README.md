@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0198-house-robber](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0238-product-of-array-except-self) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0132-palindrome-partitioning-ii) |
+| [0198-house-robber](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |

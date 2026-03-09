@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1527-patients-with-a-condition) |

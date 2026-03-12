@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -530,10 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0207-course-schedule) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Segment Tree
 |  |
 | ------- |
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0509-fibonacci-number) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->

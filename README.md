@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3693-climbing-stairs-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |

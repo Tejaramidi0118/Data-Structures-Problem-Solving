@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3693-climbing-stairs-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
+| [3750-closest-equal-element-queries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3750-closest-equal-element-queries) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3750-closest-equal-element-queries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3750-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
+| [3750-closest-equal-element-queries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3750-closest-equal-element-queries) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |

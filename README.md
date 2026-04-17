@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3830-find-closest-person](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3830-find-closest-person) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3750-closest-equal-element-queries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3750-closest-equal-element-queries) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |

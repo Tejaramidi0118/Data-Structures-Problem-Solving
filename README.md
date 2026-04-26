@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-shortest-common-supersequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0401-binary-watch) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |

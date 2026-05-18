@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
+| [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Matrix
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0777-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
+| [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
+| [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Segment Tree
 |  |

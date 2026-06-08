@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0091-decode-ways) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0018-4sum) |

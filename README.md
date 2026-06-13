@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0994-rotting-oranges) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0310-minimum-height-trees) |
+| [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
@@ -689,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->

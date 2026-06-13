@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0685-redundant-connection-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 ## Linked List
 |  |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find

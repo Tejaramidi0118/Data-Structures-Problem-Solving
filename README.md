@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0792-binary-search) |
 | [0994-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0792-binary-search) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |

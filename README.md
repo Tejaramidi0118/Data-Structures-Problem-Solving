@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
+| [1603-running-sum-of-1d-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |

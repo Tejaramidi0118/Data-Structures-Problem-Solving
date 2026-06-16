@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0239-sliding-window-maximum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 ## Trie

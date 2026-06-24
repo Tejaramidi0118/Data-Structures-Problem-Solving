@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [1980-find-unique-binary-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0792-binary-search) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
+| [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Matrix
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -472,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+| [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Data Stream
@@ -688,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Segment Tree
 |  |

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0740-delete-and-earn) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0657-robot-return-to-origin) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 | [0941-sort-array-by-parity](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -623,16 +628,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [3713-longest-balanced-substring-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 ## Bit Manipulation
 |  |

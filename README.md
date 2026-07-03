@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3379-transformed-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Stack

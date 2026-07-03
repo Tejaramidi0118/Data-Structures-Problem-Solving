@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0056-merge-intervals) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0179-largest-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0072-edit-distance) |

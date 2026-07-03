@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
+| [0941-sort-array-by-parity](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1095-two-city-scheduling) |

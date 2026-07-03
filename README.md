@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1036-rotting-oranges) |
+| [1081-video-stitching](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1081-video-stitching) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0179-largest-number) |
+| [1081-video-stitching](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1081-video-stitching) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
+| [1081-video-stitching](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1081-video-stitching) |
 | [1092-shortest-common-supersequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |

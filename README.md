@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
@@ -765,4 +768,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->

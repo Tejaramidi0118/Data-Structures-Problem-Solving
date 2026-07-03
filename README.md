@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0078-subsets) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0179-largest-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0091-decode-ways) |

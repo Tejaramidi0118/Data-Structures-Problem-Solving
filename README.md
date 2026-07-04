@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-shortest-common-supersequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
+| [1250-longest-common-subsequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1081-video-stitching](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1081-video-stitching) |
 | [1092-shortest-common-supersequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |

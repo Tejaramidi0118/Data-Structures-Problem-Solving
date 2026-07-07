@@ -1,13 +1,19 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        next_maxi = {}
+        nge = [-1 for _ in range(len(nums2))]
         stack = []
 
-        for num in reversed(nums2):
-            while stack and stack[-1] <= num:
-                stack.pop()
+        for i,num in enumerate(nums2):
+            while stack and num > nums2[stack[-1]]:
+                j = stack.pop()
+                nge[j] = num
             
-            next_maxi[num] = -1 if not stack else stack[-1]
-            stack.append(num)
+            stack.append(i)
+        
+        res = []
 
-        return [next_maxi[num] for num in nums1]
+        for num in nums1:
+            idx = nums2.index(num)
+            res.append(nge[idx])
+        
+        return res

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
+| [0739-daily-temperatures](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0777-toeplitz-matrix) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0886-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0901-online-stock-span) |
 ## Graph Theory
 |  |

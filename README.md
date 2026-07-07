@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3830-find-closest-person](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3830-find-closest-person) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |

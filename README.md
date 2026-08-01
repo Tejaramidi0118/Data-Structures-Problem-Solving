@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
+| [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0695-max-area-of-island) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0337-house-robber-iii) |
+| [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -815,4 +819,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

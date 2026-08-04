@@ -841,4 +841,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0909-stone-game) |
 | [1522-stone-game-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1522-stone-game-iii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

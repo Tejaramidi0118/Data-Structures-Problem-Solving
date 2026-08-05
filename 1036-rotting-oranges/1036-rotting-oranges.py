@@ -1,43 +1,37 @@
-from collections import deque	
+from collections import deque
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-
-        rows, cols = len(grid), len(grid[0])
-        
+        fresh = 0
         q = deque()
+        for row in grid:
+            for v in row:
+                if v == 1:
+                    fresh += 1
         
-        fresh_oranges = 0
-        
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == 2:
-                    q.append((r,c,0))
-                elif grid[r][c] == 1:
-                    fresh_oranges += 1
-        
-        if fresh_oranges == 0:
+        if fresh == 0:
             return 0
-        
-        directions = [(-1,0),(1,0),(0,1),(0,-1)]
-        
-        max_time = 0
-        
-        while q:
-            r,c,time = q.popleft()
-            max_time = time
-            
-            for dr,dc in directions:
-                new_r, new_c = r+dr, c+dc
-                
-                if 0 <= new_r < rows and 0 <= new_c < cols and \
-                grid[new_r][new_c] == 1:
-                    grid[new_r][new_c] = 2
-                    
-                    q.append((new_r,new_c,time+1))
-                    
-                    fresh_oranges -= 1
 
-        if fresh_oranges == 0:
-            return max_time
-        else:
-            return -1
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j] == 2:
+                    q.append((i,j,0))
+        
+        dirs = [(-1,0),(1,0),(0,1),(0,-1)]
+        maxT = 0
+
+        while q:
+            r,c,t = q.popleft()
+            maxT = t
+
+            for dr,dc in dirs:
+                if 0 <= r + dr < len(grid) and 0 <= c+dc < len(grid[0]):
+                    newR, newC = r+dr, c+dc
+
+                    if grid[newR][newC] == 1:
+                        grid[newR][newC] = 2
+                        fresh -= 1
+                    
+                        q.append((newR,newC,t+1))
+            
+        
+        return maxT if fresh == 0 else -1

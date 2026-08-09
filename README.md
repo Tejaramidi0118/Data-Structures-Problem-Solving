@@ -866,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

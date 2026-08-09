@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1095-two-city-scheduling) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+| [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1522-stone-game-iii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0909-stone-game) |
 | [1081-video-stitching](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1081-video-stitching) |
 | [1092-shortest-common-supersequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1092-shortest-common-supersequence) |
+| [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
+| [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -848,9 +852,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1522-stone-game-iii) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0069-sqrtx) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->

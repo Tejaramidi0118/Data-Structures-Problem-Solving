@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1980-find-unique-binary-string) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3750-closest-equal-element-queries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3750-closest-equal-element-queries) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1980-find-unique-binary-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |

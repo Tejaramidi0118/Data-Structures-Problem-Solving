@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3750-closest-equal-element-queries) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4107-find-missing-elements) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
 | ------- |

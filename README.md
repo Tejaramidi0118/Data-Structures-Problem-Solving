@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2058-concatenation-of-array) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1617-stone-game-iv) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Breadth-First Search
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 | [3713-longest-balanced-substring-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -871,11 +876,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1617-stone-game-iv](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1617-stone-game-iv](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -884,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2156-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |

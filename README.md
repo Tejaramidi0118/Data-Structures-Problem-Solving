@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4284-smallest-stable-index-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4284-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
+| [4284-smallest-stable-index-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4284-smallest-stable-index-i) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4245-count-commas-in-range](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4245-count-commas-in-range) |
 ## Greedy
 |  |
 | ------- |

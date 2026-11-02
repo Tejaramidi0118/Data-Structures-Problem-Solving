@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0406-queue-reconstruction-by-height) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0720-longest-word-in-dictionary) |
 | [0941-sort-array-by-parity](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0941-sort-array-by-parity) |

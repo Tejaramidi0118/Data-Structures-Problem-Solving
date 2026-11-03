@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-closest-equal-element-queries](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3750-closest-equal-element-queries) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3830-find-closest-person](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3830-find-closest-person) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |

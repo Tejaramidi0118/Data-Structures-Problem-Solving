@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1380-number-of-closed-islands](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1380-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1522-stone-game-iii](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1522-stone-game-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0792-binary-search) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1208-get-equal-substrings-within-budget) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1753-path-with-minimum-effort](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1753-path-with-minimum-effort) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/3973-flip-square-submatrix-vertically) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1095-two-city-scheduling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tejaramidi0118/Data-Structures-Problem-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
